@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://khunmi.github.io/svenson>
-    
+
 
 ## Features
 
