@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/svenson.svg)](https://pypi.python.org/pypi/svenson)
 
 
-**svenson is a test project for trainning purpose**
+**svenson is a test project for training purpose**
 
 
 -   Free software: MIT License

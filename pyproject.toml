@@ -4,7 +4,7 @@ version = "0.0.1"
 dynamic = [
     "dependencies",
 ]
-description = "svenson is a test project for trainning purpose"
+description = "svenson is a test project for training purpose"
 readme = "README.md"
 requires-python = ">=3.8"
 keywords = [
