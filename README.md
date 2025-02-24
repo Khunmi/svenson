@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/svenson.svg)](https://anaconda.org/conda-forge/svenson)
 
 
-**svenson is a test project for trainning purpose**
+**svenson is a test project for training purpose**
 
 
 -   Free software: MIT License
