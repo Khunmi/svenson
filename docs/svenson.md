@@ -1,4 +1,0 @@
- 
-# svenson module
-
-::: svenson.svenson
