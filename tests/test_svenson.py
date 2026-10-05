@@ -2,7 +2,6 @@
 
 """Tests for `svenson` package."""
 
-
 import unittest
 
 from svenson import svenson
